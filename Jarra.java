@@ -37,4 +37,6 @@ public class Jarra { //atributos
     public void metodoComunitario(){
     // Comentario incluido para pruebas
     System.out.println("Aqui escribimos todos");
+    
+    System.out.println("Carlos Marin Martinez");S
     }
