@@ -38,5 +38,6 @@ public class Jarra { //atributos
     // Comentario incluido para pruebas
     System.out.println("Aqui escribimos todos");
     System.out.println("Alberto Montero Solera");
+    System.out.println("Diego Gijon Fernandez");
     System.out.println("Carlos Marin Martinez");
     }
